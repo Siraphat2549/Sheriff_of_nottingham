@@ -1,0 +1,10 @@
+# Sheriff of Nottingham — Python dependencies
+# All dependencies are from the Python standard library.
+# No third-party packages are required.
+#
+# Python >= 3.9 is required (tkinter is included with standard Python distributions).
+#
+# To run on Windows make sure tkinter is bundled (it is by default in python.org installers).
+# On Linux you may need:  sudo apt install python3-tk
+
+# (No pip packages needed)
